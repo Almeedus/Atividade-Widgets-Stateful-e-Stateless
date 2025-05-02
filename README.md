@@ -4,7 +4,7 @@ A atividade conta com uma série de 04 exercícios para fixação e desenvolvime
 
 - [x] Contador com + e -;
 - [x] Dark/light mode;
-- [ ] Lista de Tarefas;
+- [x] Lista de Tarefas;
 - [ ] Botão de curtir com contador.
 
 
