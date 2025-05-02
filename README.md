@@ -3,7 +3,7 @@
 A atividade conta com uma série de 04 exercícios para fixação e desenvolvimento de lógica dentro do desenvolvimento mobile com flutter.
 
 - [x] Contador com + e -;
-- [ ] Dark/light mode;
+- [x] Dark/light mode;
 - [ ] Lista de Tarefas;
 - [ ] Botão de curtir com contador.
 
